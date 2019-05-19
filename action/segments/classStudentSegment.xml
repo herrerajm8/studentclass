@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student_file>
+	<student>
+		<student_id></student_id>
+		<name></name>
+		<year></year>
+	</student>
+	<class>
+		<class_id></class_id>
+		<description></description>
+		<schedule></schedule>
+		<room></room>
+	</class>
+</student_file>
